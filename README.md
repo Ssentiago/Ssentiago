@@ -12,4 +12,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"><a href="https://t.me/your_username" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" width="100"/></a></p>
+<p align="left"><a href="https://t.me/sentiago" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" width="100"/></a></p>
