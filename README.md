@@ -18,7 +18,7 @@ This project provides functionality for managing and interacting with Mermaid di
 
 ### [Obsidian OpenAPI Renderer](https://github.com/ssentiago/obsidian-openapi-renderer)
 
-This enhances Obsidian by providing features for working with OpenAPI specifications directly within the app.
+This project enhances Obsidian by providing features for working with OpenAPI specifications directly within the app. Reading / editing, versioning, overview.
 
 [![Obsidian OpenAPI Renderer](https://github-readme-stats.vercel.app/api/pin/?username=ssentiago&repo=obsidian-openapi-renderer&theme=radical)](https://github.com/ssentiago/obsidian-openapi-renderer)
 
