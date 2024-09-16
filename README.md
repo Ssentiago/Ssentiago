@@ -18,7 +18,7 @@ I'm Sentiago
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssentiago&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssentiago&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://myreadme.vercel.app/api/embed/ssentiago?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%201%20min-blue)
