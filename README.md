@@ -23,7 +23,8 @@ This enhances Obsidian by providing features for working with OpenAPI specificat
 [![Obsidian OpenAPI Renderer](https://github-readme-stats.vercel.app/api/pin/?username=ssentiago&repo=obsidian-openapi-renderer&theme=radical)](https://github.com/ssentiago/obsidian-openapi-renderer)
 
 
-================================================================================================================================
+---
+---
 
 
 ### Contact Me
