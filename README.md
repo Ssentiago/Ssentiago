@@ -16,7 +16,12 @@ I'm Sentiago
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssentiago&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=76674116" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=76674116&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Ssentiago" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=76674116&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 <img src="https://myreadme.vercel.app/api/embed/ssentiago?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
