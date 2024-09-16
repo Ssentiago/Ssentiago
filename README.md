@@ -25,11 +25,13 @@ I'm Sentiago
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.5%20thousand%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 3.0 kB Used in GitHub's Storage 
  > 
-> 🏆 679 Contributions in the Year 2024
+> 🏆 678 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,6 +80,6 @@ TypeScript               2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2024 00:27:11 UTC
+ Last Updated on 16/09/2024 00:33:14 UTC
 <!--END_SECTION:waka-->
 
