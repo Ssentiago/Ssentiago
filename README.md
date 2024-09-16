@@ -36,7 +36,7 @@ I'm Sentiago
 
 > 📦 3.1 kB Used in GitHub's Storage 
  > 
-> 🏆 687 Contributions in the Year 2024
+> 🏆 691 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,6 @@ I'm Sentiago
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-🌆 Daytime                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌃 Evening                348 commits         ████████████░░░░░░░░░░░░░   48.74 % 
-🌙 Night                  216 commits         ████████░░░░░░░░░░░░░░░░░   30.25 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -88,6 +78,6 @@ TypeScript               3 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2024 18:54:27 UTC
+ Last Updated on 16/09/2024 18:56:46 UTC
 <!--END_SECTION:waka-->
 
