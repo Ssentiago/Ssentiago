@@ -1,6 +1,28 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm Sentiago
+I'm Sentiago. 
+
+I’m a full-stack developer with a focus on contributing to the Obsidian community and working on various projects that enhance user experience.
+
+## 🚀 Current Projects
+
+Here are some of the key repositories I’m actively working on:
+
+### [Mermaid Zoom Drag](https://github.com/gitcpy/mermaid-zoom-drag)
+
+I am both a collaborator and the lead developer on this project.
+
+This project provides functionality for managing and interacting with Mermaid diagrams.
+
+[![Mermaid Zoom Drag](https://github-readme-stats.vercel.app/api/pin/?username=gitcpy&repo=mermaid-zoom-drag&theme=radical)](https://github.com/gitcpy/mermaid-zoom-drag)
+
+### [Obsidian OpenAPI Renderer](https://github.com/ssentiago/obsidian-openapi-renderer)
+
+This enhances Obsidian by providing features for working with OpenAPI specifications directly within the app.
+
+[![Obsidian OpenAPI Renderer](https://github-readme-stats.vercel.app/api/pin/?username=ssentiago&repo=obsidian-openapi-renderer&theme=radical)](https://github.com/ssentiago/obsidian-openapi-renderer)
+
+
 ================================================================================================================================
 
 
