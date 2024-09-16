@@ -24,7 +24,6 @@ This enhances Obsidian by providing features for working with OpenAPI specificat
 
 
 ---
----
 
 
 ### Contact Me
