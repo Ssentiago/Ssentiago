@@ -21,17 +21,17 @@ I'm Sentiago
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssentiago&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.0 kB Used in GitHub's Storage 
+> 📦 3.1 kB Used in GitHub's Storage 
  > 
-> 🏆 678 Contributions in the Year 2024
+> 🏆 687 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,9 +68,9 @@ Linux                    60 hrs 3 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
 
@@ -80,6 +80,6 @@ TypeScript               2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2024 00:33:14 UTC
+ Last Updated on 16/09/2024 04:27:03 UTC
 <!--END_SECTION:waka-->
 
