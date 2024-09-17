@@ -48,17 +48,17 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 <img src="https://myreadme.vercel.app/api/embed/ssentiago?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 kB Used in GitHub's Storage 
  > 
-> 🏆 687 Contributions in the Year 2024
+> 🏆 704 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,17 +72,17 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 🔥 Editors: 
-WebStorm                 60 hrs 3 mins       █████████████████████████   100.00 % 
+WebStorm                 56 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mermaid-zoom-drag        40 hrs 40 mins      █████████████████░░░░░░░░   67.73 % 
-advanced-replace         14 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-xmind-viewer             3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-openapi-renderer         59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-obsidian-mobile-emulator-36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+mermaid-zoom-drag        40 hrs 27 mins      ██████████████████░░░░░░░   71.41 % 
+advanced-replace         14 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+openapi-renderer         44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+obsidian-mobile-emulator-36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+changeModeByDblclick     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Linux                    60 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    56 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +100,6 @@ TypeScript               3 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2024 20:37:25 UTC
+ Last Updated on 17/09/2024 18:40:20 UTC
 <!--END_SECTION:waka-->
 
