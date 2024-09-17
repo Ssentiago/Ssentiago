@@ -10,7 +10,7 @@ Here are some of the key repositories I’m actively working on:
 
 ### [Mermaid Zoom Drag](https://github.com/gitcpy/mermaid-zoom-drag)
 
-I am both a collaborator and the lead developer on this project.
+I am developer and collaborator on this project.
 
 This project provides functionality for managing and interacting with Mermaid diagrams.
 
