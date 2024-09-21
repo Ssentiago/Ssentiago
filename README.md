@@ -4,7 +4,7 @@ I'm Sentiago.
 
 I’m a full-stack developer with a focus on contributing to the Obsidian community and working on various projects that enhance user experience.
 
-## 🚀 My Current Projects
+## 🚀 My Projects
 
 Here are some of the key repositories I’m actively working on:
 
