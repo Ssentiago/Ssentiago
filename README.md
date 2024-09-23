@@ -48,17 +48,17 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 <img src="https://myreadme.vercel.app/api/embed/ssentiago?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 kB Used in GitHub's Storage 
  > 
-> 🏆 748 Contributions in the Year 2024
+> 🏆 750 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,18 +72,18 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 🔥 Editors: 
-WebStorm                 32 hrs 24 mins      █████████████████████████   99.40 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+WebStorm                 31 hrs 17 mins      █████████████████████████   99.29 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-mermaid-zoom-drag        30 hrs 17 mins      ███████████████████████░░   92.90 % 
-openapi-renderer         54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-test                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-advanced-replace         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-obsidian-mehrmaid        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+mermaid-zoom-drag        29 hrs 10 mins      ███████████████████████░░   92.57 % 
+openapi-renderer         56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+test                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+advanced-replace         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+obsidian-mehrmaid        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Linux                    32 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,6 +101,6 @@ TypeScript               3 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 18:38:29 UTC
+ Last Updated on 23/09/2024 18:40:53 UTC
 <!--END_SECTION:waka-->
 
