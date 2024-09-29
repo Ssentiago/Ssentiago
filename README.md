@@ -43,8 +43,6 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
   </picture>
 </a>
 
-<img src="https://myreadme.vercel.app/api/embed/ssentiago?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%203%20mins-blue)
 
