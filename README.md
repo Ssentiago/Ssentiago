@@ -48,17 +48,17 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 <img src="https://myreadme.vercel.app/api/embed/ssentiago?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-153.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 kB Used in GitHub's Storage 
  > 
-> 🏆 770 Contributions in the Year 2024
+> 🏆 771 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,15 +72,15 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 🔥 Editors: 
-WebStorm                 24 hrs 43 mins      █████████████████████████   99.10 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+WebStorm                 28 hrs 3 mins       █████████████████████████   99.91 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-mermaid-zoom-drag        13 hrs 21 mins      █████████████░░░░░░░░░░░░   53.50 % 
-openapi-renderer         11 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.50 % 
+openapi-renderer         16 hrs 51 mins      ███████████████░░░░░░░░░░   60.04 % 
+mermaid-zoom-drag        11 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.96 % 
 
 💻 Operating System: 
-Linux                    24 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,6 +98,6 @@ TypeScript               3 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2024 18:38:59 UTC
+ Last Updated on 29/09/2024 18:38:58 UTC
 <!--END_SECTION:waka-->
 
