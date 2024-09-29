@@ -6,11 +6,9 @@ I’m a full-stack developer with a focus on contributing to the Obsidian commun
 
 ## 🚀 My Projects
 
-Here are some of the key repositories I’m actively working on:
+Here are some of my the key repositories:
 
 ### [Mermaid Zoom Drag](https://github.com/gitcpy/mermaid-zoom-drag)
-
-I am lead developer and collaborator on this project.
 
 This project provides functionality for managing and interacting with Mermaid diagrams.
 
