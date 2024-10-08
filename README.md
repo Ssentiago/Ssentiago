@@ -44,17 +44,17 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-217.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 kB Used in GitHub's Storage 
  > 
-> 🏆 789 Contributions in the Year 2024
+> 🏆 805 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,10 +65,10 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-🌃 Evening                554 commits         ████████████░░░░░░░░░░░░░   46.05 % 
-🌙 Night                  378 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌃 Evening                561 commits         ████████████░░░░░░░░░░░░░   46.10 % 
+🌙 Night                  383 commits         ████████░░░░░░░░░░░░░░░░░   31.47 % 
 ```
 
 
@@ -78,22 +78,22 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               30 hrs 41 mins      █████████████████████░░░░   84.18 % 
-JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-CSS                      2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               33 hrs 2 mins       █████████████████████░░░░   84.75 % 
+CSS                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JSON                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JavaScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-WebStorm                 24 hrs 47 mins      █████████████████░░░░░░░░   68.00 % 
-VS Code                  11 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   32.00 % 
+WebStorm                 27 hrs 32 mins      ██████████████████░░░░░░░   70.61 % 
+VS Code                  11 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.39 % 
 
 🐱‍💻 Projects: 
-openapi-renderer         30 hrs 14 mins      █████████████████████░░░░   82.98 % 
-mermaid-zoom-drag        6 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+openapi-renderer         31 hrs 35 mins      ████████████████████░░░░░   81.01 % 
+mermaid-zoom-drag        7 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 
 💻 Operating System: 
-Linux                    36 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -101,6 +101,6 @@ Linux                    36 hrs 26 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2024 18:40:51 UTC
+ Last Updated on 08/10/2024 18:40:54 UTC
 <!--END_SECTION:waka-->
 
