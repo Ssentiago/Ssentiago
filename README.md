@@ -44,7 +44,7 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,8 +53,6 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 **🐱 My GitHub Data** 
 
 > 📦 6.9 kB Used in GitHub's Storage 
- > 
-> 🏆 1,157 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,25 +76,22 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               23 hrs 15 mins      ██████████████████████░░░   87.20 % 
-Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JavaScript               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               19 hrs 29 mins      ███████████████████████░░   93.17 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-WebStorm                 25 hrs 36 mins      ████████████████████████░   96.01 % 
-PyCharm                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+WebStorm                 20 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-openapi-renderer         22 hrs 31 mins      █████████████████████░░░░   84.41 % 
-react-obsidian-setting   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Calculator               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-mermaid-zoom-drag        1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-ObsidianPluginTemplate   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+openapi-renderer         19 hrs 9 mins       ███████████████████████░░   91.59 % 
+mermaid-zoom-drag        1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+react-obsidian-setting   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Linux                    26 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -104,6 +99,6 @@ Linux                    26 hrs 40 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2024 18:40:31 UTC
+ Last Updated on 18/11/2024 18:43:21 UTC
 <!--END_SECTION:waka-->
 
