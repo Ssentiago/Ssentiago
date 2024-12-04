@@ -44,7 +44,7 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -76,22 +76,22 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               27 hrs 33 mins      ████████████████████████░   96.82 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               28 hrs 50 mins      ████████████████████████░   97.05 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-WebStorm                 28 hrs 27 mins      █████████████████████████   100.00 % 
+WebStorm                 29 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-openapi-renderer         28 hrs 23 mins      █████████████████████████   99.72 % 
-mermaid-zoom-drag        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+openapi-renderer         29 hrs 38 mins      █████████████████████████   99.74 % 
+mermaid-zoom-drag        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ObsidianPluginTemplate   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    28 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -99,6 +99,6 @@ Linux                    28 hrs 27 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2024 18:43:39 UTC
+ Last Updated on 04/12/2024 18:45:37 UTC
 <!--END_SECTION:waka-->
 
