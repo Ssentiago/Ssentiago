@@ -46,13 +46,15 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,237 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,6 +95,6 @@ Linux                    0 secs              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2024 18:44:49 UTC
+ Last Updated on 18/12/2024 18:43:43 UTC
 <!--END_SECTION:waka-->
 
