@@ -44,7 +44,7 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -100,6 +100,6 @@ Linux                    20 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 18:40:28 UTC
+ Last Updated on 25/12/2024 18:40:03 UTC
 <!--END_SECTION:waka-->
 
