@@ -44,7 +44,7 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,6 +53,8 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 **🐱 My GitHub Data** 
 
 > 📦 7.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,237 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,21 +78,24 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   44 mins             █████████████░░░░░░░░░░░░   50.84 % 
-HTML                     39 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+HTML                     48 mins             ██████████░░░░░░░░░░░░░░░   38.66 % 
+Python                   44 mins             █████████░░░░░░░░░░░░░░░░   35.50 % 
+JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 27 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 36 mins        ███████████████████░░░░░░   76.63 % 
+WebStorm                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
 
 🐱‍💻 Projects: 
-arseny                   1 hr 10 mins        ████████████████████░░░░░   80.50 % 
-learn_english            17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+arseny                   1 hr 10 mins        ██████████████░░░░░░░░░░░   55.92 % 
+learn-english            26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+learn_english            26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+openapi-renderer         3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -98,6 +103,6 @@ Linux                    1 hr 27 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 18:38:37 UTC
+ Last Updated on 30/12/2024 18:41:00 UTC
 <!--END_SECTION:waka-->
 
