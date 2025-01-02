@@ -48,13 +48,11 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-342.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,10 +63,10 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-🌆 Daytime                165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-🌃 Evening                599 commits         █████████████░░░░░░░░░░░░   52.59 % 
-🌙 Night                  306 commits         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌞 Morning                69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+🌆 Daytime                167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+🌃 Evening                602 commits         █████████████░░░░░░░░░░░░   52.62 % 
+🌙 Night                  306 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
 ```
 
 
@@ -103,6 +101,6 @@ Linux                    1 hr 46 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 18:39:58 UTC
+ Last Updated on 02/01/2025 18:40:54 UTC
 <!--END_SECTION:waka-->
 
