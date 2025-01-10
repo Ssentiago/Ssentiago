@@ -44,6 +44,8 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287.2%20thousand%20lines%20of%20code-blue)
@@ -74,23 +76,16 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-HTML                     2 hrs 8 mins        █████████████████░░░░░░░░   66.27 % 
-TypeScript               49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 41 mins        █████████████░░░░░░░░░░░░   52.24 % 
-WebStorm                 1 hr 32 mins        ████████████░░░░░░░░░░░░░   47.76 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-learn_english            2 hrs 19 mins       ██████████████████░░░░░░░   71.83 % 
-obsidian-xmind-viewer    53 mins             ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-learn-english            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -98,6 +93,6 @@ Linux                    3 hrs 13 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:42:37 UTC
+ Last Updated on 10/01/2025 18:41:34 UTC
 <!--END_SECTION:waka-->
 
