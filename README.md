@@ -54,8 +54,6 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 
 > 📦 7.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -95,6 +93,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2025 18:43:20 UTC
+ Last Updated on 14/01/2025 18:40:09 UTC
 <!--END_SECTION:waka-->
 
