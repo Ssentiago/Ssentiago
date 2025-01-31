@@ -76,16 +76,22 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 2 mins         ███████████████████████░░   91.89 % 
+TSConfig                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+openapi-renderer         33 mins             ████████████░░░░░░░░░░░░░   49.25 % 
+arseny                   26 mins             ██████████░░░░░░░░░░░░░░░   39.51 % 
+obsidian-xmind-viewer    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -93,6 +99,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 18:40:28 UTC
+ Last Updated on 31/01/2025 18:39:55 UTC
 <!--END_SECTION:waka-->
 
