@@ -54,8 +54,6 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 
 > 📦 7.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -78,18 +76,16 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               22 mins             █████████████████████░░░░   82.67 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-arseny                   27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -97,6 +93,6 @@ Linux                    27 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2025 18:40:54 UTC
+ Last Updated on 08/02/2025 18:37:57 UTC
 <!--END_SECTION:waka-->
 
