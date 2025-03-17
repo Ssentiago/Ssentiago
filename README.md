@@ -54,6 +54,8 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 
 > 📦 7.1 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -76,16 +78,19 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 50 mins        ████████████████████████░   95.91 % 
+CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+C/C                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    1 hr 54 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+arseny                   1 hr 54 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -93,6 +98,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2025 18:41:10 UTC
+ Last Updated on 17/03/2025 18:42:27 UTC
 <!--END_SECTION:waka-->
 
