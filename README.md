@@ -44,17 +44,15 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +76,24 @@ This project enhances Obsidian by providing features for working with OpenAPI sp
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      12 hrs 9 mins       ████████████████████████░   96.76 % 
-C/C                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-CMake                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+C++                      16 hrs 36 mins      ███████████████████████░░   92.98 % 
+CMake                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+C/C                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-CLion                    12 hrs 33 mins      █████████████████████████   100.00 % 
+CLion                    17 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-untitled                 9 hrs 27 mins       ███████████████████░░░░░░   75.29 % 
-arseny                   3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+untitled                 9 hrs 30 mins       █████████████░░░░░░░░░░░░   53.26 % 
+sky_and_the_ground       4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+arseny                   3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+the_force                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+main                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Linux                    12 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -100,6 +101,6 @@ Linux                    12 hrs 33 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 18:44:43 UTC
+ Last Updated on 20/03/2025 18:42:39 UTC
 <!--END_SECTION:waka-->
 
