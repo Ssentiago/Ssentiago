@@ -35,8 +35,6 @@ I'm Sentiago.
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -59,22 +57,16 @@ I'm Sentiago.
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 26 mins       ████████████████████████░   97.35 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       ████████████████████████░   96.98 % 
-PyCharm                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CTF_Tasks                2 hrs 30 mins       █████████████████████████   99.98 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -82,6 +74,6 @@ Linux                    2 hrs 30 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 18:43:07 UTC
+ Last Updated on 26/05/2025 18:45:00 UTC
 <!--END_SECTION:waka-->
 
