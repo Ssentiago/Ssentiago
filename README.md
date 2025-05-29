@@ -29,27 +29,25 @@ I'm Sentiago.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 158 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-🌆 Daytime                185 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-🌃 Evening                645 commits         █████████████░░░░░░░░░░░░   50.95 % 
-🌙 Night                  367 commits         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+🌆 Daytime                184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+🌃 Evening                638 commits         █████████████░░░░░░░░░░░░   50.72 % 
+🌙 Night                  367 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
 ```
 
 
@@ -59,16 +57,17 @@ I'm Sentiago.
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 mins              ███████████████░░░░░░░░░░   58.56 % 
+TypeScript               1 min               ██████████░░░░░░░░░░░░░░░   41.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+diagram-zoom-drag        4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -76,6 +75,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:45:50 UTC
+ Last Updated on 29/05/2025 18:46:48 UTC
 <!--END_SECTION:waka-->
 
