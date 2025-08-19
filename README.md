@@ -35,8 +35,6 @@ I'm Sentiago.
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 726 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -76,6 +74,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 18:51:16 UTC
+ Last Updated on 19/08/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
 
