@@ -35,7 +35,7 @@ I'm Sentiago.
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 726 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,16 +59,19 @@ I'm Sentiago.
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               7 mins              ███████████░░░░░░░░░░░░░░   44.81 % 
+TypeScript               6 mins              ██████████░░░░░░░░░░░░░░░   41.25 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -76,6 +79,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2025 18:47:56 UTC
+ Last Updated on 21/08/2025 18:46:01 UTC
 <!--END_SECTION:waka-->
 
