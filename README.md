@@ -25,7 +25,7 @@ I'm Sentiago.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C719%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C719%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,6 +79,6 @@ Windows                  18 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2025 18:46:29 UTC
+ Last Updated on 23/08/2025 18:43:18 UTC
 <!--END_SECTION:waka-->
 
