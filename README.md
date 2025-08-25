@@ -25,7 +25,7 @@ I'm Sentiago.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C719%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C719%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,6 +34,8 @@ I'm Sentiago.
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 726 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,6 +81,6 @@ Windows                  57 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 18:44:06 UTC
+ Last Updated on 25/08/2025 18:47:24 UTC
 <!--END_SECTION:waka-->
 
