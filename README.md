@@ -33,23 +33,21 @@ I'm Sentiago.
 
 **🐱 My GitHub Data** 
 
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 726 Contributions in the Year 2025
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-🌆 Daytime                315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-🌃 Evening                1315 commits        ██████████████░░░░░░░░░░░   56.68 % 
-🌙 Night                  595 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌞 Morning                95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+🌆 Daytime                315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+🌃 Evening                1330 commits        ██████████████░░░░░░░░░░░   56.96 % 
+🌙 Night                  595 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
 ```
 
 
@@ -76,6 +74,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 18:43:26 UTC
+ Last Updated on 06/09/2025 18:41:05 UTC
 <!--END_SECTION:waka-->
 
