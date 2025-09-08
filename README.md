@@ -57,16 +57,17 @@ I'm Sentiago.
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   58 mins             ████████████████████████░   97.62 % 
+TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+arseny                   59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    59 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -74,6 +75,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Ssentiago/Ssentiago/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2025 18:40:52 UTC
+ Last Updated on 08/09/2025 18:44:53 UTC
 <!--END_SECTION:waka-->
 
